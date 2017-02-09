@@ -20,9 +20,9 @@ br {
     color: black;
 }
 
-#my-discription {
+/*#my-description {
     background: lightgray;
-}
+}*/
 
 img.hover-opaque:hover {
     opacity: 0.3;
@@ -31,6 +31,9 @@ img.hover-opaque:hover {
 h3.bottom-low {
     margin-top: 30px;
     margin-bottom: 10px;
+}
+#tag-line {
+    font-style: italic
 }
 
 /*
