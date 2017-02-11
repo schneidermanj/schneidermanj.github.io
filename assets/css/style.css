@@ -36,11 +36,6 @@ h3.bottom-low {
     font-style: italic
 }
 
-h3 {
-    color: black ;
-    font-family: Helvetica, sans-serif;
-}
-
 p {
     margin-top: 10px;
     margin-bottom:10px;
@@ -51,9 +46,6 @@ p {
     margin-bottom: 50px;
 }
 
-nav {
-    text-align: right;
-} 
 
 .profile-image {
     float:right
@@ -73,7 +65,9 @@ nav {
     display: inline;
 }
 
-
+ul {
+    margin-left: -40px;
+}
 
 
 
