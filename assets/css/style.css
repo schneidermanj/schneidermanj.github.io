@@ -1,4 +1,4 @@
-body {
+/*body {
     color: black; 
     font-family: Helvetica, sans-serif;
 }
@@ -51,3 +51,9 @@ p {
 }
 
 nav {text-align: right;} 
+
+.profile-image {float:right}
+
+ul{
+    list-style-type: none;
+}
