@@ -36,8 +36,9 @@ h3.bottom-low {
     font-style: italic
 }
 
-h3 {color: black ;
- font-family: Helvetica, sans-serif;
+h3 {
+    color: black ;
+    font-family: Helvetica, sans-serif;
 }
 
 p {
@@ -50,13 +51,31 @@ p {
     margin-bottom: 50px;
 }
 
-nav {text-align: right;} 
+nav {
+    text-align: right;
+} 
 
-.profile-image {float:right}
+.profile-image {
+    float:right
+}
 
-ul{
+ul {
     list-style-type: none;
 }
-p.capitalize {
-    text-transform: capitalize;
+
+h1 {
+    color:#E56128;
 }
+h3 {
+   color: #E56128;
+}
+nav {
+    display: inline;
+}
+
+
+
+
+
+
+
