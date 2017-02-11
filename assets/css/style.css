@@ -48,7 +48,8 @@ p {
 
 
 .profile-image {
-    float:right
+    float:right;
+    padding-top: 140px
 }
 
 ul {
