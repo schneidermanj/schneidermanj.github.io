@@ -57,3 +57,6 @@ nav {text-align: right;}
 ul{
     list-style-type: none;
 }
+p.capitalize {
+    text-transform: capitalize;
+}
