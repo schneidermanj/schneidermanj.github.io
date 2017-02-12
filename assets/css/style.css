@@ -79,4 +79,20 @@ ul {
     margin-left: -15px;
 }
 
+.thumbnail {
+    position: relative;
+}
 
+.caption {
+    position: absolute;
+    top: 35%;
+    left: 0;
+    width: 100%;
+}
+.head {
+    color: white;
+}
+.project-title {
+    font-size: 5em;
+   
+}
