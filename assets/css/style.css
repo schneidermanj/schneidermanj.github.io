@@ -7,9 +7,10 @@ h3.bottom-low {
     margin-top: 30px;
     margin-bottom: 10px;
 }
-#tag-line {
+
+/*#tag-line {
     font-style: italic
-}
+}*/
 
 p {
     margin-top: 10px;
@@ -34,9 +35,11 @@ ul {
 h1 {
     color:#E56128;
 }
+
 h3 {
    color: #E56128;
 }
+
 nav {
     display: inline;
      width: 100%;
@@ -63,6 +66,12 @@ ul {
     margin-left: -15px;
 }
 
+#tagline {
+    font-weight: 300;
+    color: #E56128;
+
+}
+
 .thumbnail {
     position: relative;
 }
@@ -73,10 +82,43 @@ ul {
     left: 0;
     width: 100%;
 }
+
 .head {
     color: white;
 }
+
 .project-title {
     font-size: 5em;
+    font-weight: 700;
+}
+
+.org-title {
+    font-size: 2em;
+    font-weight: 300;
+}
+
+#myNavbar {
+    background-color: #FFFFFF;
+}
+
+#myNavbar ul li a:hover {
+    color:  #E56128;
 }
    
+ #myNavbar .navbar-nav > .active{
+    color: #000;
+    background: #d65c14;
+ }
+
+#myNavbar .navbar-nav > .active > a, 
+#myNavbar .navbar-nav > .active > a:hover, 
+#myNavbar .navbar-nav > .active > a:focus {
+    color:  #E56128;
+    background: #DDDDDD;
+    font-weight: bold;
+}
+
+/*.page-header {
+    margin: 0px;
+    padding: 0px;
+}*/
