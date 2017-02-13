@@ -121,8 +121,10 @@ ul {
 .bolded {
     font-weight: bold;
 }
+ .footer {
+     background-color: #DDDDDD;
+     text-align: center;
+     height:50px;
+     padding-top: 8px;
 
-/*.page-header {
-    margin: 0px;
-    padding: 0px;
-}*/
+ }
