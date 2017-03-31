@@ -78,23 +78,23 @@ ul {
 
 .caption {
     position: absolute;
-    top: 35%;
-    left: 0;
+    top: 75%;
     width: 100%;
 }
 
 .head {
-    color: white;
+    color: black;
 }
 
 .project-title {
-    font-size: 5em;
-    font-weight: 700;
+    font-size: 1.5em;
+  font-weight: 700;
 }
 
 .org-title {
-    font-size: 2em;
+    font-size: 1em;
     font-weight: 300;
+
 }
 
 #myNavbar {
@@ -104,14 +104,14 @@ ul {
 #myNavbar ul li a:hover {
     color:  #E56128;
 }
-   
+
  #myNavbar .navbar-nav > .active{
     color: #000;
     background: #d65c14;
  }
 
-#myNavbar .navbar-nav > .active > a, 
-#myNavbar .navbar-nav > .active > a:hover, 
+#myNavbar .navbar-nav > .active > a,
+#myNavbar .navbar-nav > .active > a:hover,
 #myNavbar .navbar-nav > .active > a:focus {
     color:  #E56128;
     background: #DDDDDD;
@@ -122,9 +122,7 @@ ul {
     font-weight: bold;
 }
  .footer {
-     background-color: #DDDDDD;
-     text-align: center;
-     height:50px;
+     text-align: left;
      padding-top: 8px;
 
  }
